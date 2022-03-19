@@ -5,7 +5,7 @@
   <HeaderComponent />
 </div>
 </div>
-  <img src="/photo1647659789.jpeg" class="absolute w-[750px] left-0 right-0 top-0 -bottom-[800px] md:-bottom-[1100px] m-auto" alt="">
+  <img src="/ne.png" class="absolute w-[750px] left-0 right-0 top-0 -bottom-[800px] md:-bottom-[1100px] m-auto" alt="">
   </div>
   <Kenafah />
   <Alternative />
