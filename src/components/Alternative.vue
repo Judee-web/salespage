@@ -20,15 +20,15 @@
                     My name is Coach Gabriel Jude. </p>
                     <p class="font-title font-semibold text-base ml-3 mt-7 xl:mt-0">Sometime around 2017, I was just a nobody struggling to survive with my family.
 
-                    I searched for jobs. I had no certificate because I was not given admission to the university.
+                    I searched for jobs, I had no certificate because I was not given admission to the university.
 
                     I need money to take care of my family. 
                                     </p>
 
                  <p  class="font-title font-semibold text-base ml-3 mt-7 xl:mt-0">
-                    I struggled as I never gave up. As if my situation would have permitted it.
+                    I struggled as I never gave up. As if my situation would have permitted it,
 
-                        I surfed the internet day in day out for all legit ways to earn online as I was good at math. I thought I would see an online Job. Even still the little money I had spent on data seemed like a wasted effort.
+                        I surfed the internet day in day out for all legit ways to earn online as I was good at math, I thought I would see an online Job. Even still the little money I had spent on data seemed like a wasted effort.
 
                         I was lucky one day to see a free masterclass advert on facebook.
                                                             </p>
@@ -36,7 +36,7 @@
                                             I was skeptical yet I needed to change my story. I asked questions about it. I have heard of internet scams so I didn't want to become a victim of such internet fraud.
                                                             </p>
                                                             <p  class="font-title font-semibold text-base ml-3 mt-7 xl:mt-0">
-                        I found out they were going to teach student something called digital skills. I asked. What is a digital skill? I found out that digital skills was what I needed to change my financial story for good. I loved the opportuninty but I was still skeptical. so I enrolled with half my mind.                                    </p>
+                        I found out they were going to teach digital skills. I asked, What is a digital skill? I found out that digital skills was what I needed to change my financial story for good. I loved the opportuninty but I was still skeptical, so I enrolled with half my mind.                                    </p>
 
     <div class="flex md:flex-row flex-col items-center justify-center">
         <button class="py-3 px-5 w-max text-white font-dmsans rounded-full bg-[#FC881D] shadow-xl shadow-[#d499622f] hover:bg-[#ff912a] transition-all" v-on:click.native='btnClick'>Get Started</button>
@@ -44,13 +44,13 @@
     </div>                                                            <p  class="font-title font-semibold text-base ml-3 mt-7 xl:mt-0">
                         Yes because I was broke did not mean I would trust anyone easily. the class went on and the value given was massive. I applied what I learnt in the real world. That's how I made my first bucket of income legitly. You might want to ask how I earned such an income ?          </p>
                                                         <p class="font-title font-semibold text-base ml-3 mt-7 xl:mt-0">
-                                                            I earned my first income by selling other people's products for them
+                                                            I earned my first income by uploading e-books online
 
                         I have decided to help as many that will give me the chance to impact with this skill I have learnt for free
 
                         That is why I am giving out my free training. All you need to get started is your smartphone and internet connection
 
-                        Click on the Join now button to reserve your space as this opportunity will last just a couple of hours.</p>
+                        Click on the Join now button to reserve your space as this Opportunity will last just a couple of hours.</p>
 
     <div class="flex md:flex-row flex-col items-center justify-center">
         <button class="py-3 px-5 w-max text-white font-dmsans rounded-full bg-[#FC881D] shadow-xl shadow-[#d499622f] hover:bg-[#ff912a] transition-all" v-on:click.native='btnClick'>Get Started</button>
