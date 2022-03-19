@@ -38,23 +38,28 @@
                                                             <p  class="font-title font-semibold text-base ml-3 mt-7 xl:mt-0">
                         I found out they were going to teach digital skills. I asked, What is a digital skill? I found out that digital skills was what I needed to change my financial story for good. I loved the opportuninty but I was still skeptical, so I enrolled with half my mind.                                    </p>
 
-    <div class="flex md:flex-row flex-col items-center justify-center">
+    <div class="flex md:flex-row flex-col items-center justify-center mt-9">
         <button class="py-3 px-5 w-max text-white font-dmsans rounded-full bg-[#FC881D] shadow-xl shadow-[#d499622f] hover:bg-[#ff912a] transition-all" v-on:click.native='btnClick'>Get Started</button>
-        <button class="py-3 px-5 w-max text-white font-dmsans ml-0 md:ml-6 flex items-center mt-4 md:mt-0"><img src="/play-circle.png" alt="play" class="mr-3" v-on:click.native='btn-Click'>Watch Video</button>
-    </div>                                                            <p  class="font-title font-semibold text-base ml-3 mt-7 xl:mt-0">
+    </div>
+                                                       <p  class="font-title font-semibold py-3 text-base ml-3 mt-7 xl:mt-0">
                         Yes because I was broke did not mean I would trust anyone easily. the class went on and the value given was massive. I applied what I learnt in the real world. That's how I made my first bucket of income legitly. You might want to ask how I earned such an income ?          </p>
-                                                        <p class="font-title font-semibold text-base ml-3 mt-7 xl:mt-0">
+                                                        <p class="font-title font-semibold text-base ml-2 mt-7 xl:mt-0">
                                                             I earned my first income by uploading e-books online
 
                         I have decided to help as many that will give me the chance to impact with this skill I have learnt for free
 
-                        That is why I am giving out my free training. All you need to get started is your smartphone and internet connection
+                        That is why I am giving out my free training. </p>
+
+                        <p class="font-title font-semibold text-base ml-2 mt-7 xl:mt-0">All you need to get started is your smartphone and internet connection
 
                         Click on the Join now button to reserve your space as this Opportunity will last just a couple of hours.</p>
 
-    <div class="flex md:flex-row flex-col items-center justify-center">
+    <div class="flex md:flex-row flex-col items-center justify-center mt-9">
         <button class="py-3 px-5 w-max text-white font-dmsans rounded-full bg-[#FC881D] shadow-xl shadow-[#d499622f] hover:bg-[#ff912a] transition-all" v-on:click.native='btnClick'>Get Started</button>
     </div>
+
+                <img  class="flex items-center mt-9 md:mt-0" src="/count.gif"/>
+
                                     </div>
 
                                 </div>
